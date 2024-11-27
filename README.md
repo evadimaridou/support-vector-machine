@@ -16,7 +16,7 @@ The dataset used for testing is a subset of **CIFAR-10**, focusing on binary cla
 - `linear_svm_from_scratch.py`: Implements a linear SVM using **Gradient Descent**.
 - `kernel_svm.py`: Implements an SVM with kernel functions (Linear, Polynomial, RBF).
 - `sklearn_svm.py`: Demonstrates the use of Scikit-learn's SVM.
-- `Neural_Networks_Assignment_2.pdf`: Detailed report on the project, including theoretical background, implementation details, and results.
+- `report.pdf`: Detailed report on the project, including theoretical background, implementation details, and results.
 
 ## Key Features
 
